@@ -5,7 +5,7 @@
   A modern, responsive note-taking application built with **Next.js** and **TypeScript**. Manage your tasks, edit your profile, and organize your thoughts efficiently.
 
   <p>
-    <a href="https://your-vercel-deploy-link.vercel.app/" target="_blank">
+    <a href="https://notehub-black-eta.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Site" />
     </a>
   </p>
@@ -22,7 +22,7 @@
 
 ## 📖 About
 
-This project is an educational web application designed to practice modern frontend development techniques. It features a complete authentication flow, profile management, and CRUD operations for notes. The state management is handled efficiently using **Zustand**, while server-state synchronization is powered by **TanStack Query**.
+A note-taking application with authentication, profile management, and full CRUD operations for notes. Client state is handled with **Zustand**, while server-state synchronization and caching are powered by **TanStack Query**.
 
 ## ✨ Features
 
